@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a B2 medical student at the Institute of Science Tokyo. I am interested in machine learning applied to medical data and currently working as a research part-timer at RIKEN.
+I am a B3 medical student at the Institute of Science Tokyo. I am interested in machine learning applied to medical data and currently working as a research part-timer at RIKEN.
 
 ## Research Interests
 
@@ -48,3 +48,4 @@ I am a B2 medical student at the Institute of Science Tokyo. I am interested in 
   - Jazz Club
   - Karuta Club
   - UTokyo Unplugged
+- Love acoustic guitar and coffee
