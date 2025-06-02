@@ -11,6 +11,7 @@ I am a B3 medical student at the Institute of Science Tokyo. I am interested in 
 - **Machine Learning**: Deep learning, natural language processing
 - **Bioinformatics**
 - **Neuroscience**: Forebrain organoids, brain-machine interfaces
+- **Emergency Medical Care**
 - **Synthetic Biology**
 
 ## Education
