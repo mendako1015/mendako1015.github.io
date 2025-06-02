@@ -43,5 +43,8 @@ I am a B2 medical student at the Institute of Science Tokyo. I am interested in 
 ## Hobbies
 - Belong to:
   - Science Tokyo M&D Alpine Ski Team
+  - TESSO: Trauma and Emergency care Study group at Science Tokyo, Organized by students
   - iGEM Science Tokyo
+  - Jazz Club
+  - Karuta Club
   - UTokyo Unplugged
